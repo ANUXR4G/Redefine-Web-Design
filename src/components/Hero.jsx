@@ -142,7 +142,7 @@ const Hero = () => {
                     </h1>
 
                     <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-                        Enter the Digital Layer <br /> Unleash Unlimited Possibilities  
+                    "Connecting Boundless Possibilities, One Node at a Time." <br /> "Where Innovation Meets the Infinite." 
                     </p>
 
                     <Button 
